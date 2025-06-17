@@ -6,10 +6,6 @@
 - Building scalable web applications
 - Exploring new technologies and frameworks
 
-## 🌱 I’m currently learning:
-- Next.js
-- Advanced React concepts
-
 ## 💞️ I’m looking to collaborate on:
 - Exciting projects that challenge my skills
 - Innovative startups and tech solutions
