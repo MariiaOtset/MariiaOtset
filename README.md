@@ -13,10 +13,6 @@
 ## 💞️ I’m looking to collaborate on:
 - Exciting projects that challenge my skills
 - Innovative startups and tech solutions
-  
-## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/mariia-otset)
-- Email: mariiaotset@gmail.com
 
 ### 🛠️ Technologies & Tools:
 - **Frontend:** HTML, CSS, JavaScript, React
