@@ -11,7 +11,7 @@
 - Innovative startups and tech solutions
 
 ### 🛠️ Technologies & Tools:
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
 - **Backend:** Node.js, Express, MongoDB
 - **Others:** Git, GitHub, RESTful APIs
 
